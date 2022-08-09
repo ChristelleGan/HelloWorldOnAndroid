@@ -19,6 +19,7 @@ The following **optional** features are implemented:
 * [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
+![HelloWorld](https://user-images.githubusercontent.com/78825809/183773617-72dd2302-40c7-4666-8d99-c9754f72e206.gif)
 
 Here's a walkthrough of implemented features:
 
