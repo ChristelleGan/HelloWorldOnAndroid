@@ -23,7 +23,7 @@ Here's a walkthrough of implemented features:
 
 ![HelloWorld](https://user-images.githubusercontent.com/78825809/183773617-72dd2302-40c7-4666-8d99-c9754f72e206.gif)
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [LiceCap](http://www.cockos.com/licecap/).  
